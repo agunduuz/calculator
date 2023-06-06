@@ -4,6 +4,7 @@ With the colorful "Calculator" I've created using;
 - **JavaScript**, 
 - **CSS** and 
 - **HTML** <br/>
+
 you won't hesitate anymore while calculating your money.
 
 Your positives ("+"), negatives ("-"), and personal development will progress exponentially ("*") as you live life.
